@@ -1,0 +1,791 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>Ver película Una bella luz interior (Let the Sunshine In) online gratis en HD | Cliver.tv</title>
+<meta name="robots" content="index, follow" />
+<meta name="theme-color" content="#071019">
+<script src="/cdn-cgi/apps/head/_QttmtJ7EZ7I7WabA-N1YqyKbWY.js"></script><link rel="shortcut icon" href="http://www.cliver.tv/img/favicon.ico" type="image/x-icon" />
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400" rel="stylesheet">
+<link rel="stylesheet" href="http://www.cliver.tv/css/font-awesome.min.css">
+<link rel="stylesheet" href="http://www.cliver.tv/css/styles.css?v=1.1.193">
+<link rel="stylesheet" href="http://www.cliver.tv/css/responsive.css?v=1.1.193">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script src="//wurfl.io/wurfl.js"></script>
+<script> var configWeb = { 'urlBase': 'http://www.cliver.tv/', 'urlStream':'http://stream.cliver.tv/', 'tipoContenido': 'peliculas', 'paginaActual': 'pelicula','datoAdicional': '4015', 'p': '0', 'dispositivo' : WURFL.form_factor }</script>
+<meta property="og:url" content="http://www.cliver.tv/pelicula/let-the-sunshine-in/" />
+<meta property="og:site_name" content="Cliver.tv" />
+<meta property="og:type" content="video.movie" />
+<meta property="og:title" content="Ver película Una bella luz interior (Let the Sunshine In) online gratis en HD | Cliver.tv" />
+<meta name="title" content="Ver película Una bella luz interior (Let the Sunshine In) online gratis en HD | Cliver.tv">
+<meta property="og:locale" content="es_ES" />
+<meta property="og:description" content="Isabelle, madre soltera, artista divorciada con un hijo, busca el amor verdadero, pero sólo va encontrando decepciones... Adaptación de la novela de Roland Barthès Fragmentos de u..." />
+<meta name="description" content="Isabelle, madre soltera, artista divorciada con un hijo, busca el amor verdadero, pero sólo va encontrando decepciones... Adaptación de la novela de Roland Barthès Fragmentos de u...">
+<meta property="og:image" content="http://www.cliver.tv/img/peliculas/4015.jpg" />
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-89544037-1"></script>
+<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+
+		  gtag('config', 'UA-89544037-1');
+		</script>
+<script type="application/ld+json">
+		{
+		  "@context" : "http://schema.org",
+		  "@type" : "Organization",
+		  "name" : "Cliver.tv",
+		  "url" : "http://www.cliver.tv",
+		  "sameAs" : [
+			"https://www.facebook.com/Cliver.tv",
+			"https://twitter.com/OFICIALCliverTV",
+			"https://plus.google.com/u/0/102377266270231529157"
+		 ]
+		}
+		</script>
+</head>
+<body>
+<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async='async'></script>
+<script>
+			var OneSignal = window.OneSignal || [];
+			OneSignal.push(["init", {
+			  appId: "e74f6b70-c90a-4a63-b82c-9a67a2f6dd40",
+			  autoRegister: true,
+			  notifyButton: {
+				  enable: false
+			  },
+			  promptOptions: {
+				actionMessage: "Activa las notificaciones para estar al tanto de los nuevos estrenos y novedades.",
+				acceptButtonText: "ACTIVAR",
+				cancelButtonText: "NO GRACIAS"
+			},
+			welcomeNotification: {
+				"title": "¡Notificaciones activadas!",
+				"message": "Gracias por suscribirte, pronto te estaremos avisando de las nuevas novedades",
+				"url": "http://www.cliver.tv"
+			}
+			}]);
+		  </script>
+<header>
+<div id="logo">
+<a href="http://www.cliver.tv/"><img src="http://www.cliver.tv/img/logo.png" alt="Cliver.tv"></a>
+</div>
+<div id="switch-container">
+<div class="switch switch--horizontal">
+<input id="input-p" value="peliculas" type="radio" name="first-switch" checked="checked" />
+<label for="input-p"><a href="http://www.cliver.tv/peliculas/" data-tipo="peliculas">PELÍCULAS</a></label>
+<input id="input-s" value="series" type="radio" name="first-switch" />
+<label for="input-s"><a href="http://www.cliver.tv/series/" data-tipo="series">SERIES</a></label><span class="toggle-outside"><span class="toggle-inside"></span></span>
+</div>
+</div>
+<nav id="menu">
+<ul>
+<li>
+<a href="http://www.cliver.tv/"><span class="fa fa-home"></span> Inicio</a>
+</li>
+</ul>
+</nav>
+<nav id="buscador">
+<form action="http://www.cliver.tv/buscar/" method="GET">
+<input type="text" name="txt" placeholder="Buscar..." autocomplete="off" autofocus>
+<button type="submit"><span class="fa fa-search"></span></button>
+</form>
+</nav>
+<div id="busq">
+<span class="fa fa-search"></span>
+</div>
+<div id="menu-res">
+<span class="fa fa-bars"></span>
+</div>
+<div class="clear"></div>
+</header>
+<div class="espacio-fixed"></div>
+<aside id="panel-h" class="panel-izq pheader">
+<form action="http://www.cliver.tv/buscar/" method="GET" id="busq-res">
+<input type="text" name="txt" placeholder="Buscar..." autocomplete="off">
+<button type="submit"><span class="fa fa-search"></span></button>
+</form>
+<div class="side">
+<p>EXPLORAR PELÍCULAS</p>
+<ul class="mopt">
+<li>
+<a href="http://www.cliver.tv/"><span class="fa fa-home"></span> Inicio</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/estrenos/"><span class="fa fa-ticket"></span> Estrenos</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/mas-vistas/"><span class="fa fa-star"></span> Más vistas</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/proximos-estrenos/"><span class="fa fa-clock-o"></span> Próximos estrenos</a>
+</li>
+</ul>
+</div>
+<div class="side">
+<p>GÉNEROS</p>
+<div class="generos">
+<ul class="ulp">
+<li>
+<a href="http://www.cliver.tv/peliculas/genero/accion/">
+<span class="cat">Acción</span>
+<span class="cat-count">1061</span>
+</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/genero/comedia/">
+<span class="cat">Comedia</span>
+<span class="cat-count">927</span>
+</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/genero/terror/">
+<span class="cat">Terror</span>
+<span class="cat-count">680</span>
+</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/genero/ciencia-ficcion/">
+<span class="cat">Ciencia ficción</span>
+<span class="cat-count">521</span>
+</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/genero/drama/">
+<span class="cat">Drama</span>
+<span class="cat-count">1778</span>
+</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/genero/musical/">
+<span class="cat">Musical</span>
+<span class="cat-count">51</span>
+</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/genero/animacion/">
+<span class="cat">Animación</span>
+<span class="cat-count">234</span>
+</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/genero/historico/">
+<span class="cat">Histórico</span>
+<span class="cat-count">98</span>
+</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/genero/policiaco/">
+<span class="cat">Policíaco</span>
+<span class="cat-count">1</span>
+</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/genero/belico/">
+<span class="cat">Bélico </span>
+<span class="cat-count">184</span>
+</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/genero/western/">
+ <span class="cat">Western</span>
+<span class="cat-count">70</span>
+</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/genero/fantasia/">
+<span class="cat">Fantasía</span>
+<span class="cat-count">346</span>
+</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/genero/deportivo/">
+<span class="cat">Deportivo </span>
+<span class="cat-count">42</span>
+</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/genero/artes-marciales/">
+<span class="cat">Artes marciales</span>
+<span class="cat-count">36</span>
+</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/genero/zombis/">
+<span class="cat">Zombis</span>
+<span class="cat-count">10</span>
+</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/genero/catastrofes/">
+<span class="cat">Catástrofes</span>
+<span class="cat-count">24</span>
+</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/genero/gore/">
+<span class="cat">Gore</span>
+<span class="cat-count">1</span>
+</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/genero/misterio/">
+<span class="cat">Misterio</span>
+<span class="cat-count">409</span>
+</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/genero/suspenso/">
+<span class="cat">Suspenso</span>
+<span class="cat-count">1247</span>
+</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/genero/romantico/">
+<span class="cat">Romántico</span>
+<span class="cat-count">492</span>
+</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/genero/biografica/">
+<span class="cat">Biográfica</span>
+<span class="cat-count">16</span>
+</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/genero/crimen/">
+<span class="cat">Crimen</span>
+<span class="cat-count">575</span>
+</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/genero/aventura/">
+<span class="cat">Aventura</span>
+<span class="cat-count">589</span>
+</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/genero/familia/">
+<span class="cat">Familia</span>
+<span class="cat-count">393</span>
+</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/genero/vampiros/">
+<span class="cat">Vampiros</span>
+<span class="cat-count">9</span>
+</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/genero/anime/">
+<span class="cat">Anime</span>
+<span class="cat-count">9</span>
+</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/genero/navidad/">
+<span class="cat">Navidad</span>
+<span class="cat-count">9</span>
+</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/genero/robots/">
+<span class="cat">Robots</span>
+<span class="cat-count">1</span>
+</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/genero/religion/">
+<span class="cat">Religión</span>
+<span class="cat-count">21</span>
+</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/genero/documental/">
+<span class="cat">Documental</span>
+<span class="cat-count">64</span>
+</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/genero/politica/">
+<span class="cat">Política</span>
+<span class="cat-count">2</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="side">
+<p>AÑO DE LANZAMIENTO</p>
+<div class="anios">
+<ul class="alf">
+<li>
+<a href="http://www.cliver.tv/peliculas/anio/2019/">2019</a>
+</li>
+<li>
+ <a href="http://www.cliver.tv/peliculas/anio/2018/">2018</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/anio/2017/">2017</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/anio/2016/">2016</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/anio/2015/">2015</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/anio/2014/">2014</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/anio/2013/">2013</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/anio/2012/">2012</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/anio/2011/">2011</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/anio/2010/">2010</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/anio/2009/">2009</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/anio/2008/">2008</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/anio/2007/">2007</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/anio/2006/">2006</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/anio/2005/">2005</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/anio/2004/">2004</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/anio/2003/">2003</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/anio/2002/">2002</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/anio/2001/">2001</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/anio/2000/">2000</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/anio/1999/">1999</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/anio/1998/">1998</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/anio/1997/">1997</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/anio/1996/">1996</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/anio/1995/">1995</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/anio/1994/">1994</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/anio/1993/">1993</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/anio/1992/">1992</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/anio/1991/">1991</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/anio/1990/">1990</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/anio/1989/">1989</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/anio/1988/">1988</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/anio/1987/">1987</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/anio/1986/">1986</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/anio/1985/">1985</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/anio/1984/">1984</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/anio/1983/">1983</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/anio/1982/">1982</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/anio/1981/">1981</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/anio/1980/">1980</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/anio/1979/">1979</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/anio/1978/">1978</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/anio/1977/">1977</a>
+</li>
+
+<li>
+<a href="http://www.cliver.tv/peliculas/anio/1976/">1976</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/anio/1975/">1975</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/anio/1974/">1974</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/anio/1973/">1973</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/anio/1972/">1972</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/anio/1971/">1971</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/anio/1970/">1970</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/anio/1969/">1969</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/anio/1968/">1968</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/anio/1967/">1967</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/anio/1966/">1966</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/anio/1965/">1965</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/anio/1964/">1964</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/anio/1963/">1963</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/anio/1962/">1962</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/anio/1961/">1961</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/anio/1960/">1960</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/anio/1959/">1959</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/anio/1958/">1958</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/anio/1957/">1957</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/anio/1955/">1955</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/anio/1954/">1954</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/anio/1953/">1953</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/anio/1952/">1952</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/anio/1951/">1951</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/anio/1950/">1950</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/anio/1949/">1949</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/anio/1946/">1946</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/anio/1943/">1943</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/anio/1941/">1941</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/anio/1937/">1937</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/anio/1932/">1932</a>
+</li>
+<li>
+<a href="http://www.cliver.tv/peliculas/anio/1931/">1931</a>
+</li>
+</ul>
+</div>
+</div>
+<br>
+<ul class="social-links">
+<li>
+<a href="https://www.facebook.com/Cliver.tv/" target="_blank" rel="nofollow"><i class="fa fa-facebook-square"></i> Síguenos en facebook</a>
+</li>
+<li>
+<a href="https://twitter.com/CliverTvOFICIAL" target="_blank" rel="nofollow"><i class="fa fa-twitter-square"></i> Síguenos en twitter</a>
+</li>
+<li>
+<a href="https://www.cine-online.eu" target="_blank"><i class="fa fa-film"></i> Peliculas online</a>
+</li>
+</ul>
+</aside>
+<div class="portada-pelicula"><div class="portada-img"></div><div class="bg-portada"></div></div>
+<div class="contenedor contenedor-pelicula">
+<div class="int-cont">
+<aside class="peli-der">
+<div class="poster">
+<img src="http://www.cliver.tv/img/peliculas/4015_min.jpg">
+</div>
+ <div class="peli-der-c">
+<p>Titulo Original</p>
+<span>Let the Sunshine In</span><br>
+<p>Titulos secundarios</p>
+<span>
+Un Sol Interior </span><br>
+</div>
+</aside>
+<section class="peli-izq">
+<div class="info-p-r">
+<div class="poster-res">
+<img src="http://www.cliver.tv/img/peliculas/4015_min.jpg">
+</div>
+<h1>Una bella luz interior</h1>
+<p><span class="fa fa-calendar"></span> 27 Sep 2017 <span class="fa fa-clock-o esp"></span> 1h 34min. <span class="block"><span class="fa fa-bookmark esp"></span> <a href="http://www.cliver.tv/peliculas/genero/comedia/">Comedia</a>, <a href="http://www.cliver.tv/peliculas/genero/drama/">Drama</a>, <a href="http://www.cliver.tv/peliculas/genero/romantico/">Romántico</a></span></p>
+<p class="oculto-res"><span class="fa fa-bullhorn" title="Director"></span> <a href="http://www.cliver.tv/persona/claire-denis/">Claire Denis</a></p> <p class="oculto-res"><span class="fa fa-star" title="Reparto"></span> <a href="http://www.cliver.tv/persona/juliette-binoche/">Juliette Binoche</a>, <a href="http://www.cliver.tv/persona/xavier-beauvois/">Xavier Beauvois</a>, <a href="http://www.cliver.tv/persona/gerard-depardieu/">Gérard Depardieu</a>, <a href="http://www.cliver.tv/persona/josiane-balasko/">Josiane Balasko</a>, <a href="http://www.cliver.tv/persona/philippe-katerine/">Philippe Katerine</a>, <a href="http://www.cliver.tv/persona/alex-descas/">Alex Descas</a>, <a href="http://www.cliver.tv/persona/nicolas-duvauchelle/">Nicolas Duvauchelle</a>, <a href="http://www.cliver.tv/persona/bruno-podalydes/">Bruno Podalydès</a></p> </div>
+<div class="descripcion-pelicula">
+<center>
+<script type="text/javascript" src="https://adtag.cc/_tags/jstags.js?s=mx/cliver/72890"></script>
+</center><br>
+<p class="titulo-det-p">Sinopsis</p>
+<p>Isabelle, madre soltera, artista divorciada con un hijo, busca el amor verdadero, pero sólo va encontrando decepciones... Adaptación de la novela de Roland Barthès "Fragmentos de un discurso amoroso".</p>
+<div id="ppSinopsis">
+</div>
+</div>
+<div class="botones-compartir">
+<div class="compartir-fb">
+<a href="http://www.facebook.com/sharer.php?u=http://www.cliver.tv/pelicula/let-the-sunshine-in/" class="btn-share">COMPARTIR</a>
+</div>
+<div class="compartir-tw">
+<a href="https://twitter.com/intent/tweet?&url=http://www.cliver.tv/pelicula/let-the-sunshine-in/&text=Una bella luz interior" class="btn-share">TWITTEAR</a>
+</div>
+</div>
+<div class="noticia-estreno">
+Esta película está siendo procesada. Intenta nuevamente en unos minutos
+</div>
+<div class="menu-pelicula">
+<ul>
+<li><a href="#" data-t="trailer"><span class="fa fa-youtube-play"></span> TRAILER</a></li>
+<li class="selected-mp"><a href="#" data-t="ver"><span class="fa fa-film"></span> VER PELÍCULA</a></li>
+<li><a href="#" data-t="equipo"><span class="fa fa-users"></span> EQUIPO & REPARTO</a></li>
+</ul>
+</div>
+<div class="contenedor-menu-pelicula">
+<div class="trailer-pelicula oculto">
+<div class="embed-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0LLBAAmXecs?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+</div>
+<div class="ver-pelicula">
+<div class="ver-pelicula-cont">
+<div class="seleccion-idioma">
+<p>Selecciona un idioma para reproducir el contenido</p>
+<div id="iconos-seleccion">
+<img src="http://www.cliver.tv/img/loader.gif" class="loader-p">
+</div>
+</div>
+</div>
+</div>
+<div class="equipo-pelicula oculto">
+<br>
+<div class="alto-equipo">
+<div class="contenedor-equipo">
+<a href="http://www.cliver.tv/persona/claire-denis/">
+<img src="http://www.cliver.tv/img/persona-default.png" alt="Claire Denis">
+</a>
+<a href="http://www.cliver.tv/persona/claire-denis/">Claire Denis</a>
+<span>Director</span>
+</div>
+<div class="contenedor-equipo">
+<a href="http://www.cliver.tv/persona/olivier-delbosc/">
+<img src="http://www.cliver.tv/img/persona-default.png" alt="Olivier Delbosc">
+</a>
+<a href="http://www.cliver.tv/persona/olivier-delbosc/">Olivier Delbosc</a>
+<span>Productor</span>
+</div>
+</div>
+<div class="alto-equipo">
+<div class="contenedor-equipo">
+<a href="http://www.cliver.tv/persona/juliette-binoche/">
+<img src="http://www.cliver.tv/img/personas/1137.jpg" alt="Juliette Binoche">
+</a>
+<a href="http://www.cliver.tv/persona/juliette-binoche/">Juliette Binoche</a>
+<span>Isabelle</span>
+</div>
+<div class="contenedor-equipo">
+<a href="http://www.cliver.tv/persona/xavier-beauvois/">
+<img src="http://www.cliver.tv/img/personas/72320.jpg" alt="Xavier Beauvois">
+</a>
+<a href="http://www.cliver.tv/persona/xavier-beauvois/">Xavier Beauvois</a>
+<span>Vincent</span>
+</div>
+<div class="contenedor-equipo">
+<a href="http://www.cliver.tv/persona/gerard-depardieu/">
+<img src="http://www.cliver.tv/img/personas/16927.jpg" alt="Gérard Depardieu">
+</a>
+<a href="http://www.cliver.tv/persona/gerard-depardieu/">Gérard Depardieu</a>
+<span>Le voyant (The seer)</span>
+</div>
+<div class="contenedor-equipo">
+<a href="http://www.cliver.tv/persona/josiane-balasko/">
+<img src="http://www.cliver.tv/img/personas/35137.jpg" alt="Josiane Balasko">
+</a>
+<a href="http://www.cliver.tv/persona/josiane-balasko/">Josiane Balasko</a>
+<span>Maxime</span>
+</div>
+<div class="contenedor-equipo">
+<a href="http://www.cliver.tv/persona/philippe-katerine/">
+<img src="http://www.cliver.tv/img/persona-default.png" alt="Philippe Katerine">
+</a>
+<a href="http://www.cliver.tv/persona/philippe-katerine/">Philippe Katerine</a>
+<span>Mathieu</span>
+</div>
+<div class="contenedor-equipo">
+<a href="http://www.cliver.tv/persona/alex-descas/">
+<img src="http://www.cliver.tv/img/personas/13609.jpg" alt="Alex Descas">
+</a>
+<a href="http://www.cliver.tv/persona/alex-descas/">Alex Descas</a>
+<span>L'homme Fin (The end man))</span>
+</div>
+<div class="contenedor-equipo">
+<a href="http://www.cliver.tv/persona/nicolas-duvauchelle/">
+<img src="http://www.cliver.tv/img/personas/81054.jpg" alt="Nicolas Duvauchelle">
+</a>
+<a href="http://www.cliver.tv/persona/nicolas-duvauchelle/">Nicolas Duvauchelle</a>
+<span>L'acteur (The actor)</span>
+</div>
+<div class="contenedor-equipo">
+<a href="http://www.cliver.tv/persona/bruno-podalydes/">
+<img src="http://www.cliver.tv/img/personas/21769.jpg" alt="Bruno Podalydès">
+</a>
+<a href="http://www.cliver.tv/persona/bruno-podalydes/">Bruno Podalydès</a>
+<span>Fabrice</span>
+</div>
+<div class="contenedor-equipo">
+<a href="http://www.cliver.tv/persona/valeria-bruni-tedeschi/">
+<img src="http://www.cliver.tv/img/personas/5077.jpg" alt="Valeria Bruni Tedeschi">
+</a>
+<a href="http://www.cliver.tv/persona/valeria-bruni-tedeschi/">Valeria Bruni Tedeschi</a>
+<span>La voyante (The seer)</span>
+</div>
+<div class="contenedor-equipo">
+<a href="http://www.cliver.tv/persona/claire-tran/">
+<img src="http://www.cliver.tv/img/personas/1426355.jpg" alt="Claire Tran">
+</a>
+<a href="http://www.cliver.tv/persona/claire-tran/">Claire Tran</a>
+<span>Admiratrice de l'acteur (Admirer of the actor)</span>
+</div>
+<div class="contenedor-equipo">
+<a href="http://www.cliver.tv/persona/paul-blain/">
+<img src="http://www.cliver.tv/img/persona-default.png" alt="Paul Blain">
+</a>
+<a href="http://www.cliver.tv/persona/paul-blain/">Paul Blain</a>
+<span>Sylvain</span>
+</div>
+<div class="contenedor-equipo">
+<a href="http://www.cliver.tv/persona/laurent-grevill/">
+<img src="http://www.cliver.tv/img/persona-default.png" alt="Laurent Grévill">
+</a>
+<a href="http://www.cliver.tv/persona/laurent-grevill/">Laurent Grévill</a>
+<span>François</span>
+</div>
+<div class="contenedor-equipo">
+<a href="http://www.cliver.tv/persona/sandrine-dumas/">
+<img src="http://www.cliver.tv/img/persona-default.png" alt="Sandrine Dumas">
+</a>
+<a href="http://www.cliver.tv/persona/sandrine-dumas/">Sandrine Dumas</a>
+<span>Ariane</span>
+</div>
+</div>
+</div>
+<div class="imagenes-pelicula oculto">
+<ul class="slider">
+</ul>
+</div>
+</div>
+</section>
+</div>
+</div>
+<script src="http://www.cliver.tv/js/jquery.tipsy.js?v=1.1.193"></script>
+<link rel="stylesheet" href="http://www.cliver.tv/css/Scrollbar.css?v=1.1.193">
+<link rel="stylesheet" href="http://www.cliver.tv/css/flexbox.css?v=1.1.193">
+<script src="http://www.cliver.tv/js/jquery.bxslider.min.js?v=1.1.193"></script>
+<script src="http://www.cliver.tv/js/Scrollbar.min.js?v=1.1.193"></script>
+<script src="http://www.cliver.tv/js/flexbox.js?v=1.1.193"></script>
+<link rel="stylesheet" href="http://www.cliver.tv/css/jquery.bxslider.css"><link rel="stylesheet" href="http://www.cliver.tv/css/mediaelementplayer.min.css"><script src="http://www.cliver.tv/js/newplayer.min.js?v=1.1.193"></script><script src="http://www.cliver.tv/js/player.js?v=1.1.193"></script>
+<script type="text/javascript" src="http://www.cliver.tv/js/es.js"></script><script type="text/javascript">var PortadaP = "http://cdn3.cliver.tv/img/peliculas/portadas/4015_d6154.jpg"; var Idpelicula = "4015";</script><script type="text/javascript">$(document).on("ready", function(){
+	initImagenes('4015');
+	ajustarPortada('http://cdn3.cliver.tv/img/peliculas/portadas/4015_d6154.jpg');
+	
+});
+	$(window).resize(function(){
+	 ajustarPortada('http://cdn3.cliver.tv/img/peliculas/portadas/4015_d6154.jpg');
+	});
+
+</script> <script src="http://www.cliver.tv/js/core.js?v=1.1.193"></script>
+
+<script>
+		!function(f,b,e,v,n,t,s)
+		{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+		n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+		if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+		n.queue=[];t=b.createElement(e);t.async=!0;
+		t.src=v;s=b.getElementsByTagName(e)[0];
+		s.parentNode.insertBefore(t,s)}(window, document,'script',
+		'https://connect.facebook.net/en_US/fbevents.js');
+		fbq('init', '364064243778903');
+		fbq('track', 'PageView');
+		</script>
+<noscript><img height="1" width="1" style="display:none"
+		src="https://www.facebook.com/tr?id=364064243778903&ev=PageView&noscript=1"
+		/></noscript>
+
+</body>
+</html>

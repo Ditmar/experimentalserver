@@ -1,0 +1,1434 @@
+
+    <!DOCTYPE html>
+    <html lang="en" undefined>
+      <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width,initial-scale=1">
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i" rel="stylesheet">
+        <link href="//appcmsprod.viewlift.com/build/54/static/css/main.css" rel="stylesheet">
+        <style> 
+  .page-skin .appcms, body.page-skin {
+    background: transparent;
+  }
+  pre {
+    display: none;
+  }
+  .appcms, body {
+    
+  
+  background: #000000;
+  
+  color: #ffffff;
+  
+  
+
+    font-family: Open Sans
+  }
+  
+  .appcms .link { 
+  
+  
+  
+  color: #ffffff;
+  
+  
+ }
+  .appcms .link:hover { 
+  
+  
+  
+  color: #ffffff;
+  
+  
+ }
+  .appcms .link:active {  }
+
+  
+  .rich-text a { 
+  
+  
+  
+  color: #ffffff;
+  
+  
+ }
+  .rich-text a:hover { 
+  
+  
+  
+  color: #ffffff;
+  
+  
+ }
+  .rich-text a:active {  }
+
+
+  :root {
+    --site-color: #008ee0
+  }
+
+  .appcms header {
+    background-color: #000000
+  }
+
+  .appcms .mobile-nav-header {
+    background-color: #000000
+  }
+
+  .appcms .site-color {
+    color: #008ee0;
+  }
+  .appcms .site-border-color {
+    border-color: #008ee0;
+  }
+  .appcms .site-background-color {
+    background-color: #008ee0;
+  }
+  .appcms .site-color-before:before {
+    color: #008ee0;
+  }
+  .appcms .site-color-after:after {
+    color: #008ee0;
+  }
+
+  .video-tray .slick-next, .video-tray .slick-next:before, .video-tray .slick-prev, .video-tray .slick-prev:before {
+    color: #008ee0;
+  }
+
+  .appcms .footer {
+    
+  
+  background: #1e2023;
+  
+  color: #868788;
+  
+  
+
+  }
+  
+  .appcms .footer .link {  }
+  .appcms .footer .link:hover {  }
+  .appcms .footer .link:active {  }
+
+
+  
+  .appcms .cta { 
+  
+  background: #008ee0;
+  
+  color: #ffffff;
+  
+  
+  border-style: solid;
+  border-radius: 0px;
+  border-width: 1px;
+  border-color: #008ee0;
+
+ }
+  .appcms .cta:hover { 
+  
+  background: #008ee0;
+  
+  color: #ffffff;
+  
+  
+  border-style: solid;
+  border-radius: 0px;
+  border-width: 1px;
+  border-color: #008ee0;
+
+ }
+  .appcms .cta:active {  }
+
+  
+  .appcms .cta.secondary { 
+  
+  background: #008ee0;
+  
+  color: #ffffff;
+  
+  
+  border-style: solid;
+  border-radius: 0px;
+  border-width: 1px;
+  border-color: #008ee0;
+
+ }
+  .appcms .cta.secondary:hover { 
+  
+  background: #008ee0;
+  
+  color: #ffffff;
+  
+  
+  border-style: solid;
+  border-radius: 0px;
+  border-width: 1px;
+  border-color: #008ee0;
+
+ }
+  .appcms .cta.secondary:active {  }
+
+  
+  .appcms .navigation-link { 
+  
+  background: #000000;
+  
+  color: #ffffff;
+  
+  
+  font-weight: bold;
+  
+
+  
+ }
+  .appcms .navigation-link:hover { 
+  
+  background: #000000;
+  
+  color: #ffffff;
+  
+  
+  font-weight: bold;
+  
+
+  
+ }
+  .appcms .navigation-link:active { 
+  
+  background: #000000;
+  
+  
+  
+  
+  font-weight: bold;
+  
+
+  
+ }
+
+  
+  .appcms .navigation-dropdown-link { 
+  
+  background: #000000;
+  
+  color: #ffffff;
+  
+  
+ }
+  .appcms .navigation-dropdown-link:hover { 
+  
+  background: #000000;
+  
+  color: #ffffff;
+  
+  
+ }
+  .appcms .navigation-dropdown-link:active { 
+  
+  background: #000000;
+  
+  color: #ffffff;
+  
+  
+ }
+
+ </style>
+        <script style="text/javascript">
+          window.settings = {
+  "id": "00000149-86ec-d4f3-a7e9-e6fe760d0000",
+  "templateName": "Entertainment",
+  "accessKey": "NTMUBHGZLWBVZXSGXQJL",
+  "apiBaseUrl": "https://prod-api.viewlift.com",
+  "pageEndpoint": "/content/pages",
+  "timestamp": 1532021265956,
+  "internalName": "snagfilms",
+  "apiKeys": [
+    {
+      "name": "snagfilms_key",
+      "apiKey": "7arSnLdRpj8mtRj5Ruv0V1GK9PE0zOyC76KcfTi8"
+    }
+  ],
+  "faqUrl": "www.SnagFilmsWatchFreeStreamingMoviesOnline.com/faq",
+  "beacon": {
+    "siteName": "SnagFilms Watch Free Streaming Movies Online",
+    "clientId": "00000149-86ec-d4f3-a7e9-e6fe760d0000",
+    "apiBaseUrl": "https://1a7ahu122g.execute-api.us-east-1.amazonaws.com/production_beacon/firehouse-proxy"
+  },
+  "companyName": "Snagfilms Inc",
+  "site": "SnagFilms Watch Free Streaming Movies Online",
+  "serviceType": "AVOD",
+  "domainName": "www.snagfilms.com",
+  "domainNames": [
+    "www.snagfilms.com",
+    "embed.snagfilms.com"
+  ],
+  "apiBaseUrlCached": "https://prod-api-cached.viewlift.com",
+  "socialMedia": {
+    "instagram": {
+      "url": "https://www.instagram.com/snagfilms/"
+    },
+    "facebook": {
+      "url": "https://www.facebook.com/snagfilms",
+      "appId": "227991737252697"
+    },
+    "youtube": {
+      "url": "https://www.youtube.com/user/snagfilms"
+    },
+    "googlePlus": {
+      "signin": true
+    }
+  },
+  "appVersions": {
+    "ios": {
+      "minimum": "2.0.1",
+      "latest": "2.3.1",
+      "updateUrl": "https://itunes.apple.com/us/app/hoichoi-bengali-movies/id1188755540?ls=1&mt=8"
+    },
+    "android": {
+      "minimum": "1.0.31",
+      "latest": "1.0.33",
+      "updateUrl": "https://play.google.com/store/apps/details?id=air.com.snagfilms"
+    }
+  },
+  "brand": {
+    "general": {
+      "backgroundColor": "#000000",
+      "blockTitleColor": "#008ee0",
+      "fontFamily": "Open Sans",
+      "pageTitleColor": "#008ee0",
+      "fontUrl": "https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i",
+      "textColor": "#ffffff"
+    },
+    "cta": {
+      "secondary": {
+        "border": {
+          "color": "#008ee0",
+          "width": "1px"
+        },
+        "backgroundColor": "#008ee0",
+        "textColor": "#ffffff"
+      },
+      "primary--hover": {
+        "border": {
+          "color": "#008ee0",
+          "width": "1px"
+        },
+        "backgroundColor": "#008ee0",
+        "textColor": "#ffffff"
+      },
+      "secondary--hover": {
+        "border": {
+          "color": "#008ee0",
+          "width": "1px"
+        },
+        "backgroundColor": "#008ee0",
+        "textColor": "#ffffff"
+      },
+      "primary": {
+        "border": {
+          "color": "#008ee0",
+          "width": "1px"
+        },
+        "backgroundColor": "#008ee0",
+        "textColor": "#ffffff"
+      }
+    },
+    "link--hover": {
+      "textColor": "#ffffff"
+    },
+    "navigation": {
+      "link--hover": {
+        "backgroundColor": "#000000",
+        "style": [
+          "bold"
+        ],
+        "textColor": "#ffffff"
+      },
+      "link--active": {
+        "backgroundColor": "#000000",
+        "style": [
+          "bold"
+        ]
+      },
+      "dropdown--active": {
+        "backgroundColor": "#000000",
+        "textColor": "#ffffff"
+      },
+      "link": {
+        "backgroundColor": "#000000",
+        "style": [
+          "bold"
+        ],
+        "textColor": "#ffffff"
+      },
+      "dropdown--hover": {
+        "backgroundColor": "#000000",
+        "textColor": "#ffffff"
+      },
+      "dropdown": {
+        "backgroundColor": "#000000",
+        "textColor": "#ffffff"
+      }
+    },
+    "footer": {
+      "backgroundColor": "#1e2023",
+      "textColor": "#868788"
+    },
+    "link": {
+      "textColor": "#ffffff"
+    },
+    "themeId": "07"
+  },
+  "images": {
+    "placeholderPoster": "https://appcmsprod.viewlift.com/00000149-86ec-d4f3-a7e9-e6fe760d0000/images/generated/placeholder-poster.png",
+    "placeholderCover": "https://appcmsprod.viewlift.com/00000149-86ec-d4f3-a7e9-e6fe760d0000/images/generated/placeholder-cover.png",
+    "desktopLogo": "https://appcmsprod.viewlift.com/00000149-86ec-d4f3-a7e9-e6fe760d0000/images/snag-logo-white-color-no-tagline.png",
+    "mobileLogo": "https://appcmsprod.viewlift.com/00000149-86ec-d4f3-a7e9-e6fe760d0000/images/snag-logo-white-color-no-tagline.png",
+    "favicon": {
+      "16": "https://appcmsprod.viewlift.com/00000149-86ec-d4f3-a7e9-e6fe760d0000/images/generated/favicon-16x16.png",
+      "32": "https://appcmsprod.viewlift.com/00000149-86ec-d4f3-a7e9-e6fe760d0000/images/generated/favicon-32x32.png",
+      "ico": "https://appcmsprod.viewlift.com/00000149-86ec-d4f3-a7e9-e6fe760d0000/images/generated/favicon.ico"
+    }
+  },
+  "customerService": {
+    "email": "feedback@snagfilms.com"
+  },
+  "emailFeedbackTech": "feedback@snagfilms.com",
+  "version": "0.9712.0",
+  "Web": "https://appcmsprod.viewlift.com/00000149-86ec-d4f3-a7e9-e6fe760d0000/web.json?version=0.9712.0",
+  "iOS": "https://appcmsprod.viewlift.com/00000149-86ec-d4f3-a7e9-e6fe760d0000/ios.json?version=0.9712.0",
+  "Android": "https://appcmsprod.viewlift.com/00000149-86ec-d4f3-a7e9-e6fe760d0000/android.json?version=0.9712.0",
+  "xbox": "https://appcmsprod.viewlift.com/00000149-86ec-d4f3-a7e9-e6fe760d0000/xbox.json?version=0.9712.0",
+  "roku": "https://appcmsprod.viewlift.com/00000149-86ec-d4f3-a7e9-e6fe760d0000/roku.json?version=0.9712.0",
+  "appleTv": "https://appcmsprod.viewlift.com/00000149-86ec-d4f3-a7e9-e6fe760d0000/appleTv.json?version=0.9712.0",
+  "fireTv": "https://appcmsprod.viewlift.com/00000149-86ec-d4f3-a7e9-e6fe760d0000/fireTv.json?version=0.9712.0",
+  "windows10Desktop": "https://appcmsprod.viewlift.com/00000149-86ec-d4f3-a7e9-e6fe760d0000/windows10Desktop.json?version=0.9712.0",
+  "forceLogin": false,
+  "isDownloadable": true,
+  "features": {
+    "mobile_app_downloads": true,
+    "user_content_rating": true,
+    "enable_mini_player": true,
+    "navigation": "top",
+    "free_preview": {
+      "isFreePreview": false,
+      "per_video": false,
+      "length": {
+        "unit": "Minutes",
+        "multiplier": "1"
+      }
+    },
+    "auto_play": true,
+    "mute_sound": false,
+    "casting": true,
+    "trick_play": false
+  },
+  "analytics": {
+    "googleTagManagerId": "GTM-ZC4S",
+    "googleAnalyticsId": "UA-3922545-1"
+  },
+  "navigation": {
+    "settings": {
+      "primaryCta": {
+        "placement": "Masthead"
+      }
+    },
+    "footer": [
+      {
+        "accessLevels": {
+          "subscribed": true,
+          "loggedIn": true,
+          "loggedOut": true
+        },
+        "displayedPath": "About Us",
+        "title": "About Us",
+        "pageId": "85eb08a3-0433-44d0-856e-4b5afe8057e0",
+        "items": [],
+        "url": "/about-us",
+        "platforms": {
+          "roku": true,
+          "fireTv": true,
+          "appleTv": true,
+          "web": true,
+          "android": true,
+          "xbox": true,
+          "ios": true,
+          "windows10Desktop": true
+        }
+      },
+      {
+        "accessLevels": {
+          "subscribed": true,
+          "loggedIn": true,
+          "loggedOut": true
+        },
+        "displayedPath": "Privacy Policy",
+        "title": "Privacy Policy",
+        "pageId": "673dc7d9-1da5-4892-ba48-9eb2ab074572",
+        "items": [],
+        "url": "/privacy-policy",
+        "platforms": {
+          "roku": true,
+          "fireTv": true,
+          "appleTv": true,
+          "web": true,
+          "android": true,
+          "xbox": true,
+          "ios": true,
+          "windows10Desktop": true
+        }
+      },
+      {
+        "accessLevels": {
+          "subscribed": true,
+          "loggedIn": true,
+          "loggedOut": true
+        },
+        "displayedPath": "http://main.snagfilms.com/board",
+        "title": "Board",
+        "pageId": "",
+        "items": [],
+        "url": "http://main.snagfilms.com/board",
+        "platforms": {
+          "roku": false,
+          "fireTv": false,
+          "appleTv": false,
+          "web": true,
+          "android": false,
+          "xbox": false,
+          "ios": false
+        }
+      },
+      {
+        "accessLevels": {
+          "subscribed": true,
+          "loggedIn": true,
+          "loggedOut": true
+        },
+        "displayedPath": "Terms of Service",
+        "title": "Terms of Service",
+        "pageId": "74f8a938-f73a-4246-a6c7-3a6dfa89df7a",
+        "items": [],
+        "url": "/tos",
+        "platforms": {
+          "roku": true,
+          "fireTv": true,
+          "appleTv": true,
+          "web": true,
+          "android": true,
+          "xbox": true,
+          "ios": true,
+          "windows10Desktop": true
+        }
+      },
+      {
+        "accessLevels": {
+          "subscribed": true,
+          "loggedIn": true,
+          "loggedOut": true
+        },
+        "displayedPath": "mailto:feedback@snagfilms.com",
+        "title": "Contact Us",
+        "pageId": "",
+        "items": [],
+        "url": "mailto:feedback@snagfilms.com",
+        "platforms": {
+          "roku": false,
+          "fireTv": false,
+          "appleTv": false,
+          "web": true,
+          "android": true,
+          "xbox": false,
+          "ios": true
+        }
+      }
+    ],
+    "tabBar": [
+      {
+        "accessLevels": {
+          "subscribed": true,
+          "loggedIn": true,
+          "loggedOut": true
+        },
+        "icon": "icon-home",
+        "displayedPath": "Home Page",
+        "title": "Home",
+        "pageId": "2e037f31-7a85-4ee8-b735-bc3c359a6737",
+        "url": "/",
+        "platforms": {
+          "roku": true,
+          "fireTv": true,
+          "appleTv": true,
+          "web": true,
+          "android": true,
+          "xbox": true,
+          "ios": true
+        }
+      },
+      {
+        "accessLevels": {
+          "subscribed": true,
+          "loggedIn": true,
+          "loggedOut": true
+        },
+        "icon": "icon-movies",
+        "displayedPath": "Categories Page",
+        "title": "Movies",
+        "pageId": "40361f1e-9854-43ff-93cb-6ab47b4e407c",
+        "url": "/categories",
+        "platforms": {
+          "roku": true,
+          "fireTv": true,
+          "appleTv": true,
+          "web": true,
+          "android": true,
+          "xbox": true,
+          "ios": true
+        }
+      },
+      {
+        "accessLevels": {
+          "subscribed": true,
+          "loggedIn": true,
+          "loggedOut": true
+        },
+        "icon": "icon-search",
+        "displayedPath": "Search Screen",
+        "title": "Search",
+        "pageId": "25a078d7-0c0a-4fb7-95ac-b4c57b03d763",
+        "url": "/search",
+        "platforms": {
+          "roku": true,
+          "fireTv": true,
+          "appleTv": true,
+          "web": true,
+          "android": true,
+          "xbox": true,
+          "ios": true
+        }
+      },
+      {
+        "accessLevels": {
+          "subscribed": true,
+          "loggedIn": true,
+          "loggedOut": true
+        },
+        "icon": "icon-menu",
+        "displayedPath": "Menu Screen",
+        "title": "Menu",
+        "pageId": "",
+        "url": "Menu Screen",
+        "platforms": {
+          "roku": true,
+          "fireTv": true,
+          "appleTv": true,
+          "web": true,
+          "android": true,
+          "xbox": true,
+          "ios": true
+        }
+      }
+    ],
+    "user": [
+      {
+        "accessLevels": {
+          "subscribed": false,
+          "loggedIn": false,
+          "loggedOut": true
+        },
+        "displayedPath": "Authentication Screen",
+        "title": "Log In",
+        "pageId": "c1585d0e-7890-4b2f-813d-4dd50cc59d8a",
+        "items": [],
+        "url": "/login",
+        "platforms": {
+          "roku": true,
+          "fireTv": true,
+          "appleTv": true,
+          "web": true,
+          "android": true,
+          "xbox": true,
+          "ios": true,
+          "windows10Desktop": true
+        }
+      },
+      {
+        "accessLevels": {
+          "subscribed": true,
+          "loggedIn": true,
+          "loggedOut": false
+        },
+        "displayedPath": "My Watchlist",
+        "title": "Watchlist",
+        "pageId": "140b931a-3c7b-44bf-9729-f147e2676b2c",
+        "items": [],
+        "url": "/user/watchlist",
+        "platforms": {
+          "roku": true,
+          "fireTv": true,
+          "appleTv": true,
+          "web": true,
+          "android": true,
+          "xbox": true,
+          "ios": true,
+          "windows10Desktop": true
+        }
+      },
+      {
+        "accessLevels": {
+          "subscribed": true,
+          "loggedIn": true,
+          "loggedOut": false
+        },
+        "displayedPath": "My History",
+        "title": "History",
+        "pageId": "3af62d5a-2407-405a-9c06-5f68c0ab8f99",
+        "items": [],
+        "url": "/user/history",
+        "platforms": {
+          "roku": true,
+          "fireTv": true,
+          "appleTv": true,
+          "web": true,
+          "android": true,
+          "xbox": true,
+          "ios": true,
+          "windows10Desktop": true
+        }
+      },
+      {
+        "accessLevels": {
+          "subscribed": true,
+          "loggedIn": true,
+          "loggedOut": false
+        },
+        "displayedPath": "My Account",
+        "title": "Settings",
+        "pageId": "68c0c5e5-44e9-411d-8192-72c8892c9ed8",
+        "items": [],
+        "url": "/user/account",
+        "platforms": {
+          "roku": true,
+          "fireTv": true,
+          "appleTv": true,
+          "web": true,
+          "android": true,
+          "xbox": true,
+          "ios": true,
+          "windows10Desktop": true
+        }
+      }
+    ],
+    "primary": [
+      {
+        "accessLevels": {
+          "subscribed": true,
+          "loggedIn": true,
+          "loggedOut": true
+        },
+        "displayedPath": "Home Page",
+        "title": "Home",
+        "pageId": "2e037f31-7a85-4ee8-b735-bc3c359a6737",
+        "items": [],
+        "url": "/",
+        "platforms": {
+          "roku": true,
+          "fireTv": true,
+          "appleTv": true,
+          "web": true,
+          "android": true,
+          "xbox": true,
+          "ios": true,
+          "windows10Desktop": true
+        }
+      },
+      {
+        "accessLevels": {
+          "subscribed": true,
+          "loggedIn": true,
+          "loggedOut": true
+        },
+        "displayedPath": "Categories Page",
+        "title": "Movies ",
+        "pageId": "40361f1e-9854-43ff-93cb-6ab47b4e407c",
+        "items": [],
+        "url": "/categories",
+        "platforms": {
+          "roku": true,
+          "fireTv": true,
+          "appleTv": true,
+          "web": true,
+          "android": true,
+          "xbox": true,
+          "ios": true,
+          "windows10Desktop": true
+        }
+      },
+      {
+        "accessLevels": {
+          "subscribed": true,
+          "loggedIn": true,
+          "loggedOut": true
+        },
+        "displayedPath": "Shows Page",
+        "title": "Shows",
+        "pageId": "3ae38d42-869f-4434-8c35-87350aba98d5",
+        "items": [],
+        "url": "/shows",
+        "platforms": {
+          "roku": true,
+          "fireTv": true,
+          "appleTv": true,
+          "web": true,
+          "android": true,
+          "xbox": true,
+          "ios": true,
+          "windows10Desktop": true
+        }
+      }
+    ]
+  },
+  "pages": [
+    {
+      "Page-Name": "Home Page",
+      "Page-Type": "Modular Page",
+      "Page-ID": "2e037f31-7a85-4ee8-b735-bc3c359a6737",
+      "Page-UI": "https://appcmsprod.viewlift.com/00000149-86ec-d4f3-a7e9-e6fe760d0000/web/2e037f31-7a85-4ee8-b735-bc3c359a6737.json?version=0.0.87",
+      "Page-API": "/content/pages",
+      "version": "0.0.87"
+    },
+    {
+      "Page-Name": "About Us",
+      "Page-Type": "Ancillary Page",
+      "Page-ID": "85eb08a3-0433-44d0-856e-4b5afe8057e0",
+      "Page-UI": "https://appcmsprod.viewlift.com/00000149-86ec-d4f3-a7e9-e6fe760d0000/web/85eb08a3-0433-44d0-856e-4b5afe8057e0.json?version=0.0.11",
+      "Page-API": "/content/pages",
+      "version": "0.0.11"
+    },
+    {
+      "Page-Name": "Categories Page",
+      "Page-Type": "Modular Page",
+      "Page-ID": "40361f1e-9854-43ff-93cb-6ab47b4e407c",
+      "Page-UI": "https://appcmsprod.viewlift.com/00000149-86ec-d4f3-a7e9-e6fe760d0000/web/40361f1e-9854-43ff-93cb-6ab47b4e407c.json?version=0.0.28",
+      "Page-API": "/content/pages",
+      "version": "0.0.28"
+    },
+    {
+      "Page-Name": "Contact Us",
+      "Page-Type": "Ancillary Page",
+      "Page-ID": "ee68f483-328e-4b86-a726-2d00aefa905e",
+      "Page-UI": "https://appcmsprod.viewlift.com/00000149-86ec-d4f3-a7e9-e6fe760d0000/web/ee68f483-328e-4b86-a726-2d00aefa905e.json?version=0.0.7",
+      "Page-API": "/content/pages",
+      "version": "0.0.7"
+    },
+    {
+      "Page-Name": "FAQ",
+      "Page-Type": "Ancillary Page",
+      "Page-ID": "de4df62b-510f-421f-b05d-4f982c72f80d",
+      "Page-UI": "https://appcmsprod.viewlift.com/00000149-86ec-d4f3-a7e9-e6fe760d0000/web/de4df62b-510f-421f-b05d-4f982c72f80d.json?version=0.0.12",
+      "Page-API": "/content/pages",
+      "version": "0.0.12"
+    },
+    {
+      "Page-Name": "My Account",
+      "Page-Type": "User Page",
+      "Page-ID": "68c0c5e5-44e9-411d-8192-72c8892c9ed8",
+      "Page-UI": "https://appcmsprod.viewlift.com/00000149-86ec-d4f3-a7e9-e6fe760d0000/web/68c0c5e5-44e9-411d-8192-72c8892c9ed8.json?version=0.0.12",
+      "Page-API": "/content/pages",
+      "version": "0.0.12"
+    },
+    {
+      "Page-Name": "My History",
+      "Page-Type": "User Page",
+      "Page-ID": "3af62d5a-2407-405a-9c06-5f68c0ab8f99",
+      "Page-UI": "https://appcmsprod.viewlift.com/00000149-86ec-d4f3-a7e9-e6fe760d0000/web/3af62d5a-2407-405a-9c06-5f68c0ab8f99.json?version=0.0.10",
+      "Page-API": "/content/pages",
+      "version": "0.0.10"
+    },
+    {
+      "Page-Name": "My Watchlist",
+      "Page-Type": "User Page",
+      "Page-ID": "140b931a-3c7b-44bf-9729-f147e2676b2c",
+      "Page-UI": "https://appcmsprod.viewlift.com/00000149-86ec-d4f3-a7e9-e6fe760d0000/web/140b931a-3c7b-44bf-9729-f147e2676b2c.json?version=0.0.12",
+      "Page-API": "/content/pages",
+      "version": "0.0.12"
+    },
+    {
+      "Page-Name": "Privacy Policy",
+      "Page-Type": "Ancillary Page",
+      "Page-ID": "673dc7d9-1da5-4892-ba48-9eb2ab074572",
+      "Page-UI": "https://appcmsprod.viewlift.com/00000149-86ec-d4f3-a7e9-e6fe760d0000/web/673dc7d9-1da5-4892-ba48-9eb2ab074572.json?version=0.0.13",
+      "Page-API": "/content/pages",
+      "version": "0.0.13"
+    },
+    {
+      "Page-Name": "Terms of Service",
+      "Page-Type": "Ancillary Page",
+      "Page-ID": "74f8a938-f73a-4246-a6c7-3a6dfa89df7a",
+      "Page-UI": "https://appcmsprod.viewlift.com/00000149-86ec-d4f3-a7e9-e6fe760d0000/web/74f8a938-f73a-4246-a6c7-3a6dfa89df7a.json?version=0.0.11",
+      "Page-API": "/content/pages",
+      "version": "0.0.11"
+    },
+    {
+      "Page-Name": "Video Page",
+      "Page-Type": "Video Template Page",
+      "Page-ID": "9ed7c3c8-c140-4936-ac76-b575d369b9b8",
+      "Page-UI": "https://appcmsprod.viewlift.com/00000149-86ec-d4f3-a7e9-e6fe760d0000/web/9ed7c3c8-c140-4936-ac76-b575d369b9b8.json?version=0.0.15",
+      "Page-API": "/content/pages",
+      "version": "0.0.15"
+    },
+    {
+      "Page-Name": "Category Page",
+      "Page-Type": "Category Template Page",
+      "Page-ID": "c0c338e8-1898-48c3-8d60-536c6bc900a8",
+      "Page-UI": "https://appcmsprod.viewlift.com/00000149-86ec-d4f3-a7e9-e6fe760d0000/web/c0c338e8-1898-48c3-8d60-536c6bc900a8.json?version=0.0.12",
+      "Page-API": "/content/pages",
+      "version": "0.0.12"
+    },
+    {
+      "Page-Name": "Tag Page",
+      "Page-Type": "Tag Template Page",
+      "Page-ID": "645dffab-222c-4c7d-af84-8ff83bc96a07",
+      "Page-UI": "https://appcmsprod.viewlift.com/00000149-86ec-d4f3-a7e9-e6fe760d0000/web/645dffab-222c-4c7d-af84-8ff83bc96a07.json?version=0.0.8",
+      "Page-API": "/content/pages",
+      "version": "0.0.8"
+    },
+    {
+      "Page-Name": "Splash Screen",
+      "Page-Type": "Splash Screen",
+      "Page-ID": "48e50e22-7c11-4bf9-930b-e3bca329f878",
+      "Page-UI": "https://appcmsprod.viewlift.com/00000149-86ec-d4f3-a7e9-e6fe760d0000/web/48e50e22-7c11-4bf9-930b-e3bca329f878.json?version=0.0.2",
+      "Page-API": "/content/pages",
+      "version": "0.0.2"
+    },
+    {
+      "Page-Name": "Reset Password",
+      "Page-Type": "User Page",
+      "Page-ID": "a78d0504-d460-4985-8d7a-01352b96d3bb",
+      "Page-UI": "https://appcmsprod.viewlift.com/00000149-86ec-d4f3-a7e9-e6fe760d0000/web/a78d0504-d460-4985-8d7a-01352b96d3bb.json?version=0.0.9",
+      "Page-API": "/content/pages",
+      "version": "0.0.9"
+    },
+    {
+      "Page-Name": "Authentication Screen",
+      "Page-Type": "Authentication Screen",
+      "Page-ID": "c1585d0e-7890-4b2f-813d-4dd50cc59d8a",
+      "Page-UI": "https://appcmsprod.viewlift.com/00000149-86ec-d4f3-a7e9-e6fe760d0000/web/c1585d0e-7890-4b2f-813d-4dd50cc59d8a.json?version=0.0.15",
+      "Page-API": "/content/pages",
+      "version": "0.0.15"
+    },
+    {
+      "Page-Name": "View Plans",
+      "Page-Type": "Marketing Page",
+      "Page-ID": "a6912c26-6745-41d0-8691-276952558b9d",
+      "Page-UI": "https://appcmsprod.viewlift.com/00000149-86ec-d4f3-a7e9-e6fe760d0000/web/a6912c26-6745-41d0-8691-276952558b9d.json?version=0.0.4",
+      "Page-API": "/content/pages",
+      "version": "0.0.4"
+    },
+    {
+      "Page-Name": "Create Login Screen",
+      "Page-Type": "Authentication Screen",
+      "Page-ID": "6c1b8091-a303-426e-a9a1-fa01838d5189",
+      "Page-UI": "https://appcmsprod.viewlift.com/00000149-86ec-d4f3-a7e9-e6fe760d0000/web/6c1b8091-a303-426e-a9a1-fa01838d5189.json?version=0.0.5",
+      "Page-API": "/content/pages",
+      "version": "0.0.5"
+    },
+    {
+      "Page-Name": "Search Screen",
+      "Page-Type": "Search Screen",
+      "Page-ID": "25a078d7-0c0a-4fb7-95ac-b4c57b03d763",
+      "Page-UI": "https://appcmsprod.viewlift.com/00000149-86ec-d4f3-a7e9-e6fe760d0000/web/25a078d7-0c0a-4fb7-95ac-b4c57b03d763.json?version=0.0.6",
+      "Page-API": "/content/pages",
+      "version": "0.0.6"
+    },
+    {
+      "Page-Name": "My Downloads",
+      "Page-Type": "User Page",
+      "Page-ID": "5a16fc70-64e7-4e59-81d5-0541d03234c3",
+      "Page-UI": "https://appcmsprod.viewlift.com/00000149-86ec-d4f3-a7e9-e6fe760d0000/web/5a16fc70-64e7-4e59-81d5-0541d03234c3.json?version=0.0.10",
+      "Page-API": "/content/pages",
+      "version": "0.0.10"
+    },
+    {
+      "Page-Name": "Download Settings",
+      "Page-Type": "User Page",
+      "Page-ID": "8b76a1be-3628-4700-90af-c3cae745e3c8",
+      "Page-UI": "https://appcmsprod.viewlift.com/00000149-86ec-d4f3-a7e9-e6fe760d0000/web/8b76a1be-3628-4700-90af-c3cae745e3c8.json?version=0.0.7",
+      "Page-API": "/content/pages",
+      "version": "0.0.7"
+    },
+    {
+      "Page-Name": "AutoPlay Screen",
+      "Page-Type": "AutoPlay Screen",
+      "Page-ID": "af311714-b557-4ab4-945d-c73f396741af",
+      "Page-UI": "https://appcmsprod.viewlift.com/00000149-86ec-d4f3-a7e9-e6fe760d0000/web/af311714-b557-4ab4-945d-c73f396741af.json?version=0.0.10",
+      "Page-API": "/content/pages",
+      "version": "0.0.10"
+    },
+    {
+      "Page-Name": "Embedded Video Page",
+      "Page-Type": "Embedded Page",
+      "Page-ID": "f45d3903-08f5-46b8-8ed0-d1c87609dbd3",
+      "Page-UI": "https://appcmsprod.viewlift.com/00000149-86ec-d4f3-a7e9-e6fe760d0000/web/f45d3903-08f5-46b8-8ed0-d1c87609dbd3.json?version=0.0.15",
+      "Page-API": "/content/pages",
+      "version": "0.0.15"
+    },
+    {
+      "Page-Name": "Content Rating Warning Screen",
+      "Page-Type": "Content Rating Warning Screen",
+      "Page-ID": "6ee7fbba-5520-4990-b0c9-82bd4f683787",
+      "Page-UI": "https://appcmsprod.viewlift.com/00000149-86ec-d4f3-a7e9-e6fe760d0000/web/6ee7fbba-5520-4990-b0c9-82bd4f683787.json?version=0.0.2",
+      "Page-API": "/content/pages",
+      "version": "0.0.2"
+    },
+    {
+      "Page-Name": "Show Page",
+      "Page-Type": "Show Template Page",
+      "Page-ID": "53b7b09e-dfcf-4658-b2fe-4a3d7d6e86c5",
+      "Page-UI": "https://appcmsprod.viewlift.com/00000149-86ec-d4f3-a7e9-e6fe760d0000/web/53b7b09e-dfcf-4658-b2fe-4a3d7d6e86c5.json?version=0.0.10",
+      "Page-API": "/content/pages",
+      "version": "0.0.10"
+    },
+    {
+      "Page-Name": "Shows Page",
+      "Page-Type": "Modular Page",
+      "Page-ID": "3ae38d42-869f-4434-8c35-87350aba98d5",
+      "Page-UI": "https://appcmsprod.viewlift.com/00000149-86ec-d4f3-a7e9-e6fe760d0000/web/3ae38d42-869f-4434-8c35-87350aba98d5.json?version=0.0.28",
+      "Page-API": "/content/pages",
+      "version": "0.0.28"
+    },
+    {
+      "Page-Name": "AutoPlay Screen (Landscape)",
+      "Page-Type": "AutoPlay Screen",
+      "Page-ID": "65cd3b9e-9c84-4b53-8ff6-8909ad79d5f7",
+      "Page-UI": "https://appcmsprod.viewlift.com/00000149-86ec-d4f3-a7e9-e6fe760d0000/web/65cd3b9e-9c84-4b53-8ff6-8909ad79d5f7.json?version=0.0.3",
+      "Page-API": "/content/pages",
+      "version": "0.0.3"
+    },
+    {
+      "Page-Name": "Alexa Auth",
+      "Page-Type": "Modular Page",
+      "Page-ID": "b57a10cd-496b-4a2b-a472-ed88f2d47821",
+      "Page-UI": "https://appcmsprod.viewlift.com/00000149-86ec-d4f3-a7e9-e6fe760d0000/web/b57a10cd-496b-4a2b-a472-ed88f2d47821.json?version=0.0.7",
+      "Page-API": "/content/pages",
+      "version": "0.0.7"
+    }
+  ],
+  "advertising": {
+    "videoTag": "https://pubads.g.doubleclick.net/gampad/ads?sz=640x480&iu=/225734590/SF_Video/Desktop&ciu_szs=300x250&impl=s&gdfp_req=1&env=vp&output=vast&unviewed_position_start=1"
+  },
+  "blocks": [
+    {
+      "name": "articleDetail01",
+      "version": "1"
+    },
+    {
+      "name": "audioDetail01",
+      "version": "1"
+    },
+    {
+      "name": "authentication01",
+      "version": "2"
+    },
+    {
+      "name": "authentication01_ActivateDevice",
+      "version": "0"
+    },
+    {
+      "name": "authentication02",
+      "version": "2"
+    },
+    {
+      "name": "authentication03",
+      "version": "0"
+    },
+    {
+      "name": "autoPlay01",
+      "version": "2"
+    },
+    {
+      "name": "autoPlay02",
+      "version": "0"
+    },
+    {
+      "name": "autoPlay03",
+      "version": "0"
+    },
+    {
+      "name": "boostSelectPlan01",
+      "version": "2"
+    },
+    {
+      "name": "boostSelectPlan02",
+      "version": "2"
+    },
+    {
+      "name": "carousel01",
+      "version": "2"
+    },
+    {
+      "name": "carouselWithList01",
+      "version": "0"
+    },
+    {
+      "name": "eventCarousel01",
+      "version": "0"
+    },
+    {
+      "name": "fullWidthCarousel01",
+      "version": "0"
+    },
+    {
+      "name": "contactUs01",
+      "version": "2"
+    },
+    {
+      "name": "container75",
+      "version": "0"
+    },
+    {
+      "name": "imageTextRow01",
+      "version": "2"
+    },
+    {
+      "name": "imageTextRow02",
+      "version": "0"
+    },
+    {
+      "name": "list01",
+      "version": "1"
+    },
+    {
+      "name": "rawHtml01",
+      "version": "2"
+    },
+    {
+      "name": "richText01",
+      "version": "2"
+    },
+    {
+      "name": "standaloneVideoPlayer01",
+      "version": "3"
+    },
+    {
+      "name": "webFrame01",
+      "version": "0"
+    },
+    {
+      "name": "webFrame02",
+      "version": "0"
+    },
+    {
+      "name": "webFrame03",
+      "version": "0"
+    },
+    {
+      "name": "contentRatingWarning01",
+      "version": "0"
+    },
+    {
+      "name": "continueWatching01",
+      "version": "2"
+    },
+    {
+      "name": "continueWatching02",
+      "version": "0"
+    },
+    {
+      "name": "dialogOptions01",
+      "version": "0"
+    },
+    {
+      "name": "bannerAd01",
+      "version": "1"
+    },
+    {
+      "name": "mediumRectangleAd01",
+      "version": "1"
+    },
+    {
+      "name": "pushdownAd01",
+      "version": "1"
+    },
+    {
+      "name": "downloads01",
+      "version": "2"
+    },
+    {
+      "name": "emailSubscribe01",
+      "version": "0"
+    },
+    {
+      "name": "eventCalendar01",
+      "version": "1"
+    },
+    {
+      "name": "eventDetail01",
+      "version": "1"
+    },
+    {
+      "name": "fightDetail01",
+      "version": "1"
+    },
+    {
+      "name": "fighterRoster01",
+      "version": "1"
+    },
+    {
+      "name": "footer01",
+      "version": "2"
+    },
+    {
+      "name": "footer02",
+      "version": "2"
+    },
+    {
+      "name": "footer03",
+      "version": "0"
+    },
+    {
+      "name": "fullscreenWebframe01",
+      "version": "0"
+    },
+    {
+      "name": "gameDetail01",
+      "version": "1"
+    },
+    {
+      "name": "articleFeed01",
+      "version": "0"
+    },
+    {
+      "name": "articleGrid01",
+      "version": "0"
+    },
+    {
+      "name": "grid01",
+      "version": "2"
+    },
+    {
+      "name": "history01",
+      "version": "2"
+    },
+    {
+      "name": "history02",
+      "version": "0"
+    },
+    {
+      "name": "linkAccount01",
+      "version": "0"
+    },
+    {
+      "name": "banner01",
+      "version": "0"
+    },
+    {
+      "name": "masthead01",
+      "version": "2"
+    },
+    {
+      "name": "masthead02",
+      "version": "0"
+    },
+    {
+      "name": "personDetail01",
+      "version": "1"
+    },
+    {
+      "name": "personDetail02",
+      "version": "1"
+    },
+    {
+      "name": "photoGalleryDetail01",
+      "version": "1"
+    },
+    {
+      "name": "playlistDetail01",
+      "version": "1"
+    },
+    {
+      "name": "redeemOffer01",
+      "version": "1"
+    },
+    {
+      "name": "scheduleTray01",
+      "version": "1"
+    },
+    {
+      "name": "search01",
+      "version": "3"
+    },
+    {
+      "name": "seasonTray01",
+      "version": "1"
+    },
+    {
+      "name": "seasonTray02",
+      "version": "1"
+    },
+    {
+      "name": "showDetail01",
+      "version": "3"
+    },
+    {
+      "name": "smallEventCalendar01",
+      "version": "1"
+    },
+    {
+      "name": "splashPage01",
+      "version": "1"
+    },
+    {
+      "name": "splashScreen01",
+      "version": "2"
+    },
+    {
+      "name": "subNav01",
+      "version": "0"
+    },
+    {
+      "name": "selectPlan01",
+      "version": "2"
+    },
+    {
+      "name": "selectPlan02",
+      "version": "2"
+    },
+    {
+      "name": "teamDetail01",
+      "version": "1"
+    },
+    {
+      "name": "teamRoster01",
+      "version": "1"
+    },
+    {
+      "name": "teamSchedule01",
+      "version": "1"
+    },
+    {
+      "name": "teamStats01",
+      "version": "1"
+    },
+    {
+      "name": "articleTray01",
+      "version": "1"
+    },
+    {
+      "name": "audioTray01",
+      "version": "3"
+    },
+    {
+      "name": "previewTray01",
+      "version": "0"
+    },
+    {
+      "name": "tray01",
+      "version": "3"
+    },
+    {
+      "name": "tray02",
+      "version": "3"
+    },
+    {
+      "name": "tray03",
+      "version": "3"
+    },
+    {
+      "name": "tray04",
+      "version": "3"
+    },
+    {
+      "name": "trayFeaturedVideo01",
+      "version": "3"
+    },
+    {
+      "name": "createPassword01",
+      "version": "0"
+    },
+    {
+      "name": "downloadSettings01",
+      "version": "2"
+    },
+    {
+      "name": "resetPassword01",
+      "version": "2"
+    },
+    {
+      "name": "userManagement01",
+      "version": "2"
+    },
+    {
+      "name": "userManagement02",
+      "version": "0"
+    },
+    {
+      "name": "videoInfo01",
+      "version": "1"
+    },
+    {
+      "name": "videoPlayer01",
+      "version": "2"
+    },
+    {
+      "name": "videoPlayerInfo01",
+      "version": "2"
+    },
+    {
+      "name": "videoPlayerInfo01__TEMP__NO_STARS",
+      "version": "2"
+    },
+    {
+      "name": "videoPlayerInfo01_temp_withoutdownload",
+      "version": "0"
+    },
+    {
+      "name": "videoPlayerInfo02",
+      "version": "2"
+    },
+    {
+      "name": "watchlist01",
+      "version": "2"
+    },
+    {
+      "name": "watchlist02",
+      "version": "0"
+    }
+  ],
+  "blocksVersion": "24",
+  "blocksBundleUrl": "https://appcmsprod.viewlift.com/template-builder/blocksBundle/web.json",
+  "blocksBaseUrl": "https://appcmsprod.viewlift.com/template-builder/blocks",
+  "pagesUpdated": 1532021266000,
+  "siteId": "00000149-86ec-d4f3-a7e9-e6fe760d0000",
+  "layoutUrlBase": "https://appcmsprod.viewlift.com/",
+  "baseAPIKey": "dtGKRIAd7y3mwmuXGk63u3MI3Azl1iYX8w9kaeg3",
+  "auth": {
+    "facebookAppId": "227991737252697",
+    "googleClientId": "896211361377-bctgdh0sthfetcu33t60pp6ei6ldj71b.apps.googleusercontent.com"
+  }
+}
+        </script>
+
+        
+        
+        
+        
+      </head>
+      <body undefined undefined>
+
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-ZC4S" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+        <div id="root"></div>
+        <script type="text/javascript">
+          window.initialStoreState = atob && JSON.parse(unescape(atob('JTdCJTdE')))
+        </script>
+        <script src="//cdn.polyfill.io/v2/polyfill.min.js"></script>
+        <script src="//imasdk.googleapis.com/js/sdkloader/ima3.js"></script>
+        <script src="https://apis.google.com/js/platform.js" async defer></script>
+        <script src="//js.stripe.com/v3/" async defer></script>
+        <script type="text/javascript" src="//appcmsprod.viewlift.com/build/54/static/js/app.js"></script>
+        
+      </body>
+    </html>
+  

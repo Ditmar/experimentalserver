@@ -1,0 +1,17 @@
+extends layout
+
+block content
+  h1 #{idmovie}
+  h1= title
+  p titulo  #{title}
+  img(src="#{poster}")
+  br
+  b direccion
+  input(type="text", value="#{url}", id="inputform")
+  form(action="/",method="post")
+    ul
+      li
+        b  REAL direccion
+        input(type="hidden", value="#{idmovie}", name="idmovie")
+        input(type="text", value="", id="inputform", name="realpath")
+        input(type="submit", value="enviar")
